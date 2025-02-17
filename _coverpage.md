@@ -6,6 +6,6 @@
 
 > Adbo - Java 学习笔记
 
-[个人博客](https://adbo.gitee.io/)
+[个人博客](https://adbbo.github.io/)
 [下滑阅读](#前言)
 
